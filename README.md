@@ -1,7 +1,7 @@
 <h1 align="center">👋Hello, my name's Nazim!</h1>
 
 <p align="center">
-I'm an asipiring creative designer with an extensive background in customer service and UX/UI Design, looking for a junior web developer position!
+I'm an aspiring creative designer with an extensive background in customer service and UX/UI Design, looking for a junior web developer position!
 
 <h2 align="center"> Skills of the Trade </h2>
 
